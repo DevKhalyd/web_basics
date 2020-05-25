@@ -13,7 +13,7 @@ I think that StackOverflow and Google is too important because all info is there
 
 So If you want to know how to put emojis just put `:EMOJICODE:`. You can find emojis code [here](https://www.webfx.com/tools/emoji-cheat-sheet/) :relaxed:.
 
-[WebSite](/assets/preview.jpg)
+![alt text](/assets/preview.jpg)
 
 :thumbsup:
 
